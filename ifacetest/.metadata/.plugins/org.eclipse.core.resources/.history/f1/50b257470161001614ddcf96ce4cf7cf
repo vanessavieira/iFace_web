@@ -1,0 +1,9 @@
+package iFaceWeb;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+@RequestMaping("index")
+public class Teste {
+
+}

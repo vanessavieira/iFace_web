@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+/home/vany/workspace/P2/ifacetest/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2419708927.index
+2217008680.index
+3149312303.index
+2096210245.index
+1676994217.index
+521750514.index
+1392609709.index

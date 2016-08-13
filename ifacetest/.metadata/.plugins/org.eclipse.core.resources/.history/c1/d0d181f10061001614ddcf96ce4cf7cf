@@ -1,0 +1,7 @@
+package iFaceWeb;
+
+@Controller
+@RequestMaping("index")
+public class Teste {
+
+}
